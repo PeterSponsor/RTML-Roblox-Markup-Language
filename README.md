@@ -8,6 +8,7 @@ RTML is a markup language for building modern Roblox UI with:
 
 It is designed to make interface authoring fast, expressive, and easy to read.
 The engine is maintained by me, the source is not public.
+![image](/image.png)
 ## Start Here
 
 If you want to learn the language quickly, open:
