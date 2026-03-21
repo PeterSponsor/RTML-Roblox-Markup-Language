@@ -12,8 +12,8 @@ The engine is maintained by me, the source is not public as of 21/03/2026
 
 You can use the engine which have a lua file at this repository now by running this example
 
-´´´lua
--- Demo for the Engine, you can learn how to use it on my github
+
+```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/PeterSponsor/RTML-Roblox-Markup-Language/refs/heads/main/Engine.lua"))()
 
 RTML.render([[
@@ -120,7 +120,7 @@ RTML.render([[
 	</frame>
 </screenui>
 ]])
-´´´
+```
 
 ## Start Here
 
